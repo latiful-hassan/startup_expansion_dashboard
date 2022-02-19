@@ -1,6 +1,6 @@
 # startup_expansion_dashboard
 **Task**:
-  - investigate what areas the start-up should continue investing in marketing.
+  - investigate what areas the start-up should continue investing in marketing
 
 **Contents & Process**:
   - a region revenue map, city revenue map and  revenue/marketing/population spend scatter plot were used to create the dashboard
